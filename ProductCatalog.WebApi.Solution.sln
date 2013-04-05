@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCatalog.WebApi", "ProductCatalog.WebApi\ProductCatalog.WebApi.csproj", "{CC301826-2DB8-42F3-9ADB-6823D54AD04D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCatalog.WebApi.Tests", "ProductCatalog.WebApi.Tests\ProductCatalog.WebApi.Tests.csproj", "{51ECD802-7D0B-4C65-B442-48903987853A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC301826-2DB8-42F3-9ADB-6823D54AD04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC301826-2DB8-42F3-9ADB-6823D54AD04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC301826-2DB8-42F3-9ADB-6823D54AD04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC301826-2DB8-42F3-9ADB-6823D54AD04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51ECD802-7D0B-4C65-B442-48903987853A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51ECD802-7D0B-4C65-B442-48903987853A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51ECD802-7D0B-4C65-B442-48903987853A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51ECD802-7D0B-4C65-B442-48903987853A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
